@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW17,SW14,SW12,SW15,SW1,SW4,SW19,SW6,SW13,SW16,SW18,SW20,SW3,SW5,SW11,SW21,SW8,SW2,SW10,SW9,SW7,SW22";"SW_Cherry_MX_1.00u_PCB";22;"SW_Push";;;
+2;"U4";"ProMicro";1;"ProMicro";;;
+3;"H2,H3,H1,H4";"MountingHole_2.7mm_M2.5_Pad_Via";4;"MountingHole_Pad";;;
+4;"R28,R24";"Potentiometer_Bourns_PTA6043_Single_Slide";2;"PTA6043-2015CPB103";;;
+5;"SW23";"SW_Cherry_MX_2.00u_Vertical_PCB";1;"SW_Push";;;

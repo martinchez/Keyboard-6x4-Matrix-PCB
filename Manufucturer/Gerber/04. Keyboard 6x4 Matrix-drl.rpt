@@ -1,0 +1,31 @@
+Drill report for 04. Keyboard 6x4 Matrix.kicad_pcb
+Created on 11/11/2024 1:12:59 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file '04. Keyboard 6x4 Matrix-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (4 holes)
+    T2  0.500mm  0.0197"  (32 holes)
+    T3  1.100mm  0.0433"  (24 holes)
+    T4  1.200mm  0.0472"  (6 holes)
+    T5  1.500mm  0.0591"  (46 holes)
+    T6  1.700mm  0.0669"  (8 holes)
+    T7  2.700mm  0.1063"  (4 holes)
+
+    Total plated holes count 124
+
+
+Drill file '04. Keyboard 6x4 Matrix-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.700mm  0.0669"  (46 holes)
+    T2  3.050mm  0.1201"  (2 holes)
+    T3  4.000mm  0.1575"  (25 holes)
+
+    Total unplated holes count 73

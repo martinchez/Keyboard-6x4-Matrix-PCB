@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${KIPRJMOD}/Library/Switch_Keyboard_Cherry_MX.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino-library")(type "KiCad")(uri "${KIPRJMOD}/Library/Footsprints/arduino-kicad-library-master/symbols/arduino-library.kicad_sym")(options "")(descr ""))
+  (lib (name "ARDUINO_PRO_MINI")(type "KiCad")(uri "${KIPRJMOD}/Library/Footsprints/ARDUINO_PRO_MINI/ARDUINO_PRO_MINI.kicad_sym")(options "")(descr ""))
+  (lib (name "RS6011SY")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/RS6011SY/RS6011SY.kicad_sym")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/Library/symbols/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "PTA4543-2015CPB102")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/PTA4543-2015CPB102/PTA4543-2015CPB102.kicad_sym")(options "")(descr ""))
+  (lib (name "PTA6043-2015CPB103")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/PTA6043-2015CPB103/PTA6043-2015CPB103.kicad_sym")(options "")(descr ""))
+)
